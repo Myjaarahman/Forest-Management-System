@@ -1,6 +1,6 @@
 💻 Step-by-Step Guide to Setting Up the Forestry Management System
 
-Start Your Local Server
+Start Your Local Server.
 Open XAMPP or Laragon.
 Start Apache and MySQL.
 Open phpMyAdmin and Create the Database

@@ -17,4 +17,5 @@ Launch the Homepage
 Copy the project folder to C:\xampp\htdocs.
 Open your browser and go to http://localhost/pokok/home.php
 View the Forestry Data and Analysis Chart.# Forest-Management-System
+
 # Forest-Management-System
